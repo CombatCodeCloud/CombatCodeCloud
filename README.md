@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and web apps
 - 🌱 I’m currently learning more c# and js
 - 💞️ I’m looking to collaborate on beginner friendly projects and small browers apps
-- 📫 How to reach me somewhere
+- 📫 How to reach me, my yahoo: angel817jr@yahoo.com
 
 <!---
 CombatCodeCloud/CombatCodeCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
